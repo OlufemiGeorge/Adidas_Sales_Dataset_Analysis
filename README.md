@@ -12,4 +12,10 @@ This Microsoft Excel project analyzes sales data from the Adidas Sales Dataset. 
 3.	Top states based on overall sales?
 4.	Display Sales Trend between 2020 and 2021
 
+## Skills / concepts demonstrated:
+The Following Microsoft Excel features were incorporated:
+- Pivot,
+- Visualisation chats
+- Slicer
+
 
