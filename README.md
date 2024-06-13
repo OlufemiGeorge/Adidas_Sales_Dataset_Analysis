@@ -42,4 +42,9 @@ The report comprises of one page
 
 _You can interact with the report [here](https://onedrive.live.com/embed?resid=43E1FF6E2669C2F0%2113264&authkey=!AFJhe0wOxcyR7ec&em=2)_
 
+Features
+
+In order to make the visualization dynamic and allow users to filter and drill down to certain Year, Quarter, Region, Product, Sales technique, and Retailer, slicers have been added to the report's right side.
+
+
 
