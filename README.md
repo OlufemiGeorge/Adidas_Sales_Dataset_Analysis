@@ -62,7 +62,11 @@ Findings
 -   The sales trend from 2020 to 2021 indicates a notable increase in sales in 2021, with a notable surge in online sales in the southeast and south-central regions.
 
 Suggestions / Recommendations 
--   When it comes to online sales, other regions will be encourage to adopt the South and Southeast's strategy in order to boost online sales there as well. 
+-   When it comes to online sales, other regions will be encourage to adopt the South and Southeast's strategy in order to boost online sales there as well.
+-   To boost online sales, invest in focused digital marketing initiatives, upgrade the online sales platform, and improve user experience.
+-   To improve marketing messaging and product offerings, track key performance metrics, gather customer insights, and continuously monitor sales performance.
+
+-   
 
 
 
